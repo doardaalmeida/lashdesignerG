@@ -1,0 +1,64 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+.cabeçalho
+{
+    background-color:#383D58;
+    color:white;
+    display:flex;
+    justify-content: space-arround;
+    padding: 24px 0;
+}
+.cabeçalho-imagem
+{
+    width:20%;
+}
+.cabeçalho-lista-item
+{
+    display:inline-block;
+    Margin: 0 16px;
+    padding: 24px 0;
+    Font-size: 24px;
+    } 
+    .empreendedorismo individual-imagem{
+        width:25%;
+    }
+    .empreendedorismo individual{
+        background-image: linear-gradient(#383838,#00c0eb);
+        color:white;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+    .empreendedorismo individual-título{
+        padding: 24px 0;
+    }
+    .empreendedorismo individual-conteúdo{
+        width:35%; 
+    }
+    .Lash Designer-imagem{
+        width:25%;
+    }
+    .Lash Designer{
+        background-image: linear-gradient(#383838,#00c0eb);
+        color:white;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+    .Lash Designer-título{
+        padding: 24px 0;
+    }
+    .Lash Designer-conteúdo{
+        width:35%; 
+    }
+    .rodapé
+    {
+        background-color: rgb (127, 255, 185);
+        color:black;
+        text-align: center;}
+    
